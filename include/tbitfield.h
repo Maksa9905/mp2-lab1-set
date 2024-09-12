@@ -14,6 +14,8 @@ using namespace std;
 
 typedef unsigned int TELEM;
 
+// комментарий
+
 class TBitField
 {
 private:
